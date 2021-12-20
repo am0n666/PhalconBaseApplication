@@ -1,5 +1,5 @@
 {
-    "name": "am0n666/PhalconBaseApplication",
+    "name": "am0n666/phalcon-base-application",
     "type": "template",
     "description": "A project template to make creating new phalcon projects easier.",
     "keywords": ["template","phalcon"],
