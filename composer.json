@@ -1,0 +1,15 @@
+{
+    "name": "am0n666/PhalconBaseApplication",
+    "type": "template",
+    "description": "A project template to make creating new phalcon projects easier.",
+    "keywords": ["template","phalcon"],
+    "homepage": "https://github.com/am0n666/PhalconBaseApplication",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "am0n666",
+            "email": "am0n666x@gmail.com",
+            "role": "Developer"
+        }
+    ]
+}
